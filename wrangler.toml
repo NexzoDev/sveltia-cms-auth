@@ -2,6 +2,6 @@ name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
 [vars]
-ALLOWED_DOMAINS = "*.akchampion.com, ayamkremes-site.koolbrader3000.workers.dev"
+ALLOWED_DOMAINS = "akchampion.com, *.akchampion.com, ayamkremes-site.koolbrader3000.workers.dev"
 GITHUB_ALLOW_WORKFLOW_SCOPE = "true"
 GITHUB_CLIENT_ID = "Ov23liQfjojAfalzNMzQ"
